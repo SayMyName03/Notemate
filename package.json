@@ -10,13 +10,16 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.12.12",
+    "@radix-ui/react-progress": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.2",
+    "autoprefixer": "^10.4.21",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "convex": "^1.21.0",
     "lucide-react": "^0.485.0",
     "module": "^1.2.5",
     "next": "^15.2.3",
+    "postcss": "^8.5.3",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^3.0.2",
@@ -26,7 +29,7 @@
     "@tailwindcss/postcss": "^4",
     "@types/node": "22.13.14",
     "@types/react": "19.0.12",
-    "tailwindcss": "^4",
+    "tailwindcss": "^4.1.1",
     "typescript": "5.8.2"
   }
 }
